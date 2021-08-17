@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 More:
 
-![nk125-stats](https://github-readme-stats.vercel.app/api?username=MyAstron&show_icons=true "Stats")
-![most-used-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MyAstron&layout=compact "Languages")
+![MyAstron](https://github-readme-stats.vercel.app/api?username=MyAstron&show_icons=true&title_color=00bcd4&icon_color=00bcd4&text_color=FFFFFF&bg_color=000000)
+![MyAstron-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MyAstron&title_color=00bcd4&text_color=fbd334&bg_color=000&layout=compact "Languages")
