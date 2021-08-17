@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### My Server Discord: (is in spanish)
+[Discord](https://discord.gg/4BVSgjP9ZP)
+
+More:
+
+![nk125-stats](https://github-readme-stats.vercel.app/api?username=MyAstron&show_icons=true "Stats")
+![most-used-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MyAstron&layout=compact "Languages")
