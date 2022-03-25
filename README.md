@@ -1,23 +1,8 @@
-### Hi there 👋
-
-<!--
-**proyects-MY2015/proyects-MY2015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-#### My Server Discord: (is in spanish)
-[Discord](https://discord.gg/4BVSgjP9ZP)
-
-More:
-
+# <img src="https://images-ext-1.discordapp.net/external/eMHLWGSbKWexA-RU-4vGzg95HBvoWbMu2yhbb_r2u50/https/cdn.discordapp.com/emojis/837578068553891900.gif" height="30"> Hi there
+ • Some Personal/Help Info<br><p align="center">
+[![Discord](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/4BVSgjP9ZP)
+[![Bot](https://img.shields.io/badge/🌐%20Discord%20Bot-424549?style=for-the-badge&logo=&logoColor=white)](https://off-topic.ml/)
+[![Support](https://img.shields.io/badge/Support%20Server-36393e?style=for-the-badge&logo=&logoColor=white)](https://discord.gg/x8nCQ4nVPV)<br>
 ![MyAstron](https://github-readme-stats.vercel.app/api?username=MyAstron&show_icons=true&title_color=00bcd4&icon_color=00bcd4&text_color=FFFFFF&bg_color=000000)
-![MyAstron-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MyAstron&title_color=00bcd4&text_color=fbd334&bg_color=000&layout=compact "Languages")
+  ![MyAstron-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MyAstron&title_color=00bcd4&text_color=fbd334&bg_color=000&layout=compact "Languages")<br>
+<img src="https://i.ibb.co/TLB8VLF/star.gif" width="20"> Give me a Star!! </p>
